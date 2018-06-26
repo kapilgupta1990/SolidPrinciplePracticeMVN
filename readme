@@ -1,0 +1,24 @@
+SOLID:
+S-> Single responsibility principle : It says that a class should only perfom one responsibility.
+There should exist only a single reason to change  a class.
+
+
+O-> Open close principle
+
+
+L-> Liskow substitution principle
+https://egkatzioura.com/2018/02/23/solid-principles-liskov-substitution-principle/
+
+new Integer() is type of Number
+Number number=new Integer();
+Integer integer=new Integer();
+
+
+
+I-> Interface segration
+Next principle is the interface-segregation. 
+The interface-segregation principle (ISP) states that no client should be forced to depend on methods it does not use.
+https://egkatzioura.com/2018/02/23/solid-principles-interface-segregation-principle/
+
+D-> Depedency Injestion
+https://dzone.com/articles/solid-principles-dependency-inversion-principle
